@@ -1,4 +1,4 @@
-Capstone Project
+Capstone Project: 
 NYC Motor Vehicle Collisions
 
 1. Paper
