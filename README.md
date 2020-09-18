@@ -1,4 +1,4 @@
 Capstone Project
-NYC Motor Vehicle Collisions
+<br>NYC Motor Vehicle Collisions</br>
 
 Su Lei, Seth Narine, Keyla Nin
